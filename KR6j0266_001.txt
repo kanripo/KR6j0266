@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:29:02.743084
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 10:42
 #+TITLE: 世尊聖者千眼千首千足千舌千臂觀自在菩提薩埵怛嚩廣大圓滿無礙大悲心陀羅尼
 #+PROPERTY: CBETA_ID T20n1062B
 #+PROPERTY: ID KR6j0266
