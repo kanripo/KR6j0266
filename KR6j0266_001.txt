@@ -1,19 +1,18 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:29:02.743084
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 10:42
 #+TITLE: 世尊聖者千眼千首千足千舌千臂觀自在菩提薩埵怛嚩廣大圓滿無礙大悲心陀羅尼
 #+PROPERTY: CBETA_ID T20n1062B
 #+PROPERTY: ID KR6j0266
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 20, No. 1062B
 #+PROPERTY: VOL 20
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0266_T_001-0114b> 
 #+PROPERTY: JUAN 1
 ¶
-No.1062B[cf.1056-1058,1060-1062A,¶
-1063,1064]¶
-
- 世尊聖者千眼千首千足千舌千¶
+No. 1062B [cf. 1056-1058, 1060-1062A,¶
+ 1063, 1064]¶
+世尊聖者千眼千首千足千舌千¶
 臂觀自在菩提薩埵怛嚩廣大圓¶
 滿無礙大悲心陀羅尼¶
 ¶
